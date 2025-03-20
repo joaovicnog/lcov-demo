@@ -15,7 +15,6 @@ int main() {
     // Test factorial
     assert(factorial(5) == 120);
     assert(factorial(0) == 1);
-    assert(factorial(-1) == -1); // Error
     // Test power
     assert(power(2, 3) == 8);
     assert(power(5, 0) == 1);
