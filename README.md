@@ -1,6 +1,6 @@
 # Projeto Final - lcov/gcov
 
-Este projeto demonstra como medir a cobertura de código em um projeto modular em C utilizando o lcov para capturar os dados de cobertura e o gcov para gerar os arquivos de cobertura (.gcov).
+Este projeto demonstra como medir a cobertura de código em um projeto modular em C utilizando o lcov para capturar os dados de cobertura.
 
 ## Descrição do Projeto
 
