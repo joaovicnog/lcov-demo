@@ -5,7 +5,7 @@ Este projeto demonstra como medir a cobertura de código em um projeto modular e
 ## Descrição do Projeto
 
 O projeto consiste em:
-- **Módulo Math:** Implementa funções básicas (adição, subtração, multiplicação, divisão fatorial e potência).
+- **Módulo Math:** Implementa funções básicas (adição, subtração, multiplicação, divisão, fatorial e potência).
 - **Aplicação Principal:** Demonstra o uso do módulo Math.
 - **Testes Unitários:** Localizados em `tests/test_math.c`, que validam as funções implementadas.
 
